@@ -1,4 +1,4 @@
-# PactRail — Landing Page
+# Beykro — Landing Page
 
 Static landing page for an **agent-to-agent commerce infrastructure** startup (identity, spend mandates, escrowed settlement for AI agents). No build step, no dependencies — plain HTML/CSS/JS.
 
@@ -8,9 +8,9 @@ Edit the three values at the top of **`config.js`**:
 
 ```js
 const BRAND = {
-  companyName: "PactRail",
-  domain: "pactrail.example.com",
-  contactEmail: "hello@pactrail.example.com"
+  companyName: "Beykro",
+  domain: "beykro.xyz",
+  contactEmail: "hello@beykro.xyz"
 };
 ```
 
